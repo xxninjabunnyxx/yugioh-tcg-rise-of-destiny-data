@@ -1,0 +1,35 @@
+---
+id: 13803864
+name: Mokey Mokey King
+type: Fusion Monster
+frameType: fusion
+desc: |-
+  "Mokey Mokey" + "Mokey Mokey" + "Mokey Mokey"
+  When this card is removed from the field, you can Special Summon as many "Mokey Mokey" as possible from your Graveyard.
+atk: 300
+def: 100
+level: 6
+race: Fairy
+attribute: LIGHT
+card_sets:
+- set_name: Dark Revelation Volume 3
+  set_code: DR3-EN096
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '6.15'
+- set_name: Rise of Destiny
+  set_code: RDS-EN036
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.4'
+card_images:
+- id: 13803864
+  image_url: https://images.ygoprodeck.com/images/cards/13803864.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/13803864.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/13803864.jpg
+card_prices:
+- cardmarket_price: '0.13'
+  tcgplayer_price: '0.20'
+  ebay_price: '0.99'
+  amazon_price: '0.71'
+  coolstuffinc_price: '0.39'
